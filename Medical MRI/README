@@ -1,0 +1,12 @@
+Scripts for two assignments in medical MRI analysis. 
+Assignment 1:
+ - Masksimple (left/right and right/left thresholding)
+ - Maskfull (same for 3D)
+ - nonlincurvefit (implementation of lsqcurvefit for T1 and PD estimation from FLASH sequence)
+ - slicei (Function for visualizing 4D images)
+ - ass12 (collects above functions for report 1)
+ 
+Assignment 2 on magnetic resonance spectroscopy:
+ - FID (simulate an FID signal given weights and ppm values)
+ - specGLM (perform GLM estimation of FID spectra - not completely done)
+ - MRIass2 (complete GLM estimation and concentration calculation on real data)
